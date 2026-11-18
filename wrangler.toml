@@ -1,10 +1,10 @@
-name = "edgetunnel-obfuscated"
+name = "ed-iQ9mfRKt2i"
 main = "_worker.js"
 compatibility_date = "2026-07-28"
 keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"
-id = "eea4d5a1677a4036a2dbdc1c392a1706"
+id = "0e82bfe6e2ee4f37a8946a0fef58e4a1"
 
 
